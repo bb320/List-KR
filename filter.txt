@@ -1702,6 +1702,7 @@
 ||udmserve.net/udm/img.fetch^
 ||unionpress.co.kr/news/html_tpl/pr_ad.php^
 ||unionpress.co.kr/news/master/banner/3d69ca2f12c09759924d8be0a89a4259^
+||unpkg.com/anti-web^
 ||uplus.kr/cd/cdNavi/retreieveHtml*JS*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||urldelivery.com/watch.
